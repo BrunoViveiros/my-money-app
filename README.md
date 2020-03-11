@@ -43,7 +43,7 @@
 [![My Money App GIF][product-screenshot]](https://github.com/BrunoViveiros/my-money-app/raw/master/images/screenshot.gif)
 
 
-### Tecnologias utilizadas
+## 🎉 Tecnologias utilizadas
 MyMoneyApp utiliza diferentes frameworks e bibliotecas, os principais estão citados abaixo:
 
 * ⚛️[ReactJS](https://pt-br.reactjs.org/) é uma biblioteca JavaScript para criar interfaces de usuário.
@@ -58,14 +58,8 @@ MyMoneyApp utiliza diferentes frameworks e bibliotecas, os principais estão cit
 <!-- GETTING STARTED -->
 ## 🏠 Getting Started
 
-[Back-end](backend/README.md)
-[Front-end](frontend/README.md)
-
-<!-- LICENSE -->
-## 📖 License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
+* [Back-end](backend/README.md)
+* [Front-end](frontend/README.md)
 
 
 <!-- CONTACT -->
@@ -74,6 +68,11 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 Bruno Viveiros - [@BrunoViveiros10](https://twitter.com/BrunoViveiros10) - bruferviveiros@gmail.com
 
 Project Link: [https://github.com/BrunoViveiros/my-money-app](https://github.com/BrunoViveiros/my-money-app)
+
+<!-- LICENSE -->
+## 📖 License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
