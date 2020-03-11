@@ -29,6 +29,9 @@
   <p align="center">
     Projeto simples de ciclo de pagamentos realizado no curso de <a href='https://www.udemy.com/course/react-redux-pt/'>React/Redux</a> pela <a href="https://www.udemy.com/user/cod3r-3/">COD3R</a>
     <br />
+    <a href="https://github.com/BrunoViveiros/my-money-app"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
     <a href="https://github.com/BrunoViveiros/my-money-app">Veja a Demo</a>
     ·
     <a href="https://github.com/BrunoViveiros/my-money-app/issues">Reporte um Bug</a>
@@ -39,10 +42,27 @@
 
 
 
+<!-- TABLE OF CONTENTS -->
+## Sumário
+
+* [Sobre o Projeto](#sobre-o-projeto)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+
+
+
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-<img src='./images/screenshot.gif' width='600px' align='middle'/>
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -153,4 +173,4 @@ Project Link: [https://github.com/BrunoViveiros/my-money-app](https://github.com
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.gif
+[product-screenshot]: images/screenshot.png
