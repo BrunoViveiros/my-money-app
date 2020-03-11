@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-<img src='./images/screenshot.gif' width='600px' align='middle'/>
+<img src='./images/screenshot.gif' align='middle'/>
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
