@@ -29,7 +29,7 @@
   <p align="center">
     Projeto simples de ciclo de pagamentos realizado no curso de <a href='https://www.udemy.com/course/react-redux-pt/'>React/Redux</a> pela <a href="https://www.udemy.com/user/cod3r-3/">COD3R</a>
     <br />
-    <a href="https://github.com/BrunoViveiros/my-money-app">Veja a Demo</a>
+    <a href="https://bv-my-money-app-frontend.herokuapp.com/" target='_blank'>Veja a Demo</a>
     ·
     <a href="https://github.com/BrunoViveiros/my-money-app/issues">Reporte um Bug</a>
     ·
