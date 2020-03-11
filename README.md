@@ -24,7 +24,7 @@
     <img src="images/logo.svg" alt="Logo" width="250" height="250">
   </a>
 
-  <h3 align="center">My Money App</h3>
+  <h2 align="center">My Money App</h3>
 
   <p align="center">
     Projeto simples de ciclo de pagamentos realizado no curso de <a href='https://www.udemy.com/course/react-redux-pt/'>React/Redux</a> pela <a href="https://www.udemy.com/user/cod3r-3/">COD3R</a>
@@ -43,97 +43,37 @@
 [![My Money App GIF][product-screenshot]](https://github.com/BrunoViveiros/my-money-app/raw/master/images/screenshot.gif)
 
 
-### 🍃 Tecnologias utilizadas
+### Tecnologias utilizadas
 MyMoneyApp utiliza diferentes frameworks e bibliotecas, os principais estão citados abaixo:
-* [Node.js]()
-* [ReactJS]()
-* 🍃 [MongoDB]()
-* [AdminLTE]()
-* [Redux]()
-* [Bootstrap]()
+
+* ⚛️[ReactJS](https://pt-br.reactjs.org/) é uma biblioteca JavaScript para criar interfaces de usuário.
+* ⚛️[Redux](https://redux.js.org/) é uma biblioteca JavaScript para gerenciar o estado do aplicativo.
+* 🅱️[Bootstrap](https://getbootstrap.com/) é um framework web para desenvolvimento de componentes de interface e front-end.
+* 📊[AdminLTE](https://adminlte.io/) é um tema de painel de administração e painel de controle.
+* ⚙️[Node.js](https://nodejs.org/en/) é um interpretador de JavaScript assíncrono.
+* 🍀[MongoDB](https://www.mongodb.com/) é um software de banco de dados orientado a documentos livres.
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 🏠 Getting Started
 
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
-
-### Installation
- 
-1. Clone the repo
-```sh
-git clone https://github.com/BrunoViveiros/my-money-app.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/BrunoViveiros/my-money-app/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
+[Back-end](backend/README.md)
+[Front-end](frontend/README.md)
 
 <!-- LICENSE -->
-## License
+## 📖 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 
 
 <!-- CONTACT -->
-## Contact
+## 📫 Contact
 
-Your Name - [@BrunoViveiros10](https://twitter.com/BrunoViveiros10) - bruferviveiros@gmail.com
+Bruno Viveiros - [@BrunoViveiros10](https://twitter.com/BrunoViveiros10) - bruferviveiros@gmail.com
 
 Project Link: [https://github.com/BrunoViveiros/my-money-app](https://github.com/BrunoViveiros/my-money-app)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -150,4 +90,7 @@ Project Link: [https://github.com/BrunoViveiros/my-money-app](https://github.com
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
+
 [product-screenshot]: images/screenshot.gif
+[link-front-end]: frontend/README.md
+[link-back-end]: images/screenshot.gif
