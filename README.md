@@ -29,7 +29,7 @@
   <p align="center">
     Projeto simples de ciclo de pagamentos realizado no curso de <a href='https://www.udemy.com/course/react-redux-pt/'>React/Redux</a> pela <a href="https://www.udemy.com/user/cod3r-3/">COD3R</a>
     <br />
-    <a href="https://bv-my-money-app-frontend.herokuapp.com/" target='_blank'>Veja a Demo</a>
+    <a href="https://bv-my-money-app-frontend.herokuapp.com/" target='_blank'>Veja a Demo (Demora carregar)</a>
     ·
     <a href="https://github.com/BrunoViveiros/my-money-app/issues">Reporte um Bug</a>
     ·
@@ -37,23 +37,20 @@
   </p>
 </p>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-<img src='./images/screenshot.gif' align='middle'/>
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`BrunoViveiros`, `my-money-app`, `BrunoViveiros10`, `bruferviveiros@gmail.com`
+[![My Money App GIF][product-screenshot]](https://github.com/BrunoViveiros/my-money-app/raw/master/images/screenshot.gif)
 
 
-### Built With
-
-* []()
-* []()
-* []()
+### 🍃 Tecnologias utilizadas
+MyMoneyApp utiliza diferentes frameworks e bibliotecas, os principais estão citados abaixo:
+* [Node.js]()
+* [ReactJS]()
+* 🍃 [MongoDB]()
+* [AdminLTE]()
+* [Redux]()
+* [Bootstrap]()
 
 
 
