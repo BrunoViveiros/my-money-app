@@ -52,8 +52,8 @@ MyMoneyApp utiliza diferentes frameworks e bibliotecas, os principais estão cit
 
 ## 🏠 Getting Started
 
-- [Back-end](backend/README.md)
-- [Front-end](frontend/README.md)
+- [Back-end](backend/)
+- [Front-end](frontend/)
 
 <!-- CONTACT -->
 
