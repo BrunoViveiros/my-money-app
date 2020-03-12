@@ -23,7 +23,7 @@ class Navbar extends Component {
             }`}
           >
             <a
-              href='javascript:;'
+              href
               onClick={() => this.changeOpen()}
               aria-expanded={this.state.open ? 'true' : 'false'}
               className='dropdown-toggle'
@@ -32,7 +32,7 @@ class Navbar extends Component {
               <img
                 src='http://lorempixel.com/160/160/abstract'
                 className='user-image'
-                alt='User Image'
+                alt='User'
               />
               <span className='hidden-xs'>{name}</span>
             </a>
@@ -41,7 +41,7 @@ class Navbar extends Component {
                 <img
                   src='http://lorempixel.com/160/160/abstract'
                   className='img-circle'
-                  alt='User Image'
+                  alt='User'
                 />
                 <p>
                   {name}
@@ -51,7 +51,7 @@ class Navbar extends Component {
               <li className='user-footer'>
                 <div className='pull-right'>
                   <a
-                    href='#'
+                    href
                     onClick={this.props.logout}
                     className='btn btn-default btn-flat'
                   >

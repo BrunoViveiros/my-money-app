@@ -11,3 +11,17 @@ button {
 .table-actions {
   width: 150px;
 }
+
+
+.skin-blue .main-header .navbar .sidebar-toggle {
+  width: 42px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-indent: 42px;
+  cursor: pointer;
+}
+
+.main-header .sidebar-toggle:before {
+  text-indent: 0;
+  float: left;
+}

@@ -14,7 +14,9 @@ export default props => (
     </a>
 
     <nav className='navbar navbar-static-top'>
-      <a href className='sidebar-toggle' data-toggle='offcanvas'></a>
+      <a href className='sidebar-toggle a-menu' data-toggle='offcanvas'>
+        TESTEa
+      </a>
       <Navbar />
     </nav>
   </header>
