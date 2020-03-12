@@ -15,7 +15,6 @@ class TabHeader extends Component {
         <li className={selected ? 'active' : ''}>
           <a
             href
-            className='button-link'
             data-toggle='tab'
             onClick={() => this.props.selectTab(this.props.target)}
             data-target={this.props.target}
