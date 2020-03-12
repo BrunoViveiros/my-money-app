@@ -11,13 +11,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcryptjs": "^2.4.3",
+    "bcryptjs": "2.4.3",
     "body-parser": "1.18.3",
     "express": "4.16.3",
     "express-query-int": "3.0.0",
     "jsonwebtoken": "8.3.0",
-    "lodash": "4.17.10",
-    "mongoose": "5.2.12",
+    "lodash": "4.17.15",
+    "mongoose": "5.9.4",
     "mongoose-paginate": "5.0.3",
     "node-restful": "0.2.6",
     "pm2": "3.0.4"
