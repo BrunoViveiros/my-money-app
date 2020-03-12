@@ -24,3 +24,7 @@ button {
   text-indent: 0;
   float: left;
 }
+
+.dropdown-toggle {
+  cursor: pointer;
+}
