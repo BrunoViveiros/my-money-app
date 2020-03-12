@@ -1,7 +1,9 @@
 const mongoose = require('mongoose');
 mongoose.Promise = global.Promise;
 
-module.exports = mongoose.connect('mongodb://localhost/mymoney', {
+const url = process.env.MONGOLAB_URI || 'mongodb://localhost/mymoney' //URL de sua db;
+
+module.exports = mongoose.connect(url, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useFindAndModify: false
